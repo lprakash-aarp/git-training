@@ -104,6 +104,25 @@
       <relatedItems xmi:id="_G4BloBxYEemZie5clxWbng" id="_kQpwoBxREem8ubyJQSeG0g - LU_QUARTER" version="Latest" type="schema"/>
       <relatedItems xmi:id="_G4BloRxYEemZie5clxWbng" id="_MN6V4Bw8Eem8ubyJQSeG0g - tflowmetercatcher" version="Latest" type="schema"/>
     </ItemsRelations>
+    <ItemsRelations xmi:id="_LtWD0BxaEem8Y5v3_tieFQ">
+      <baseItem xmi:id="_LtWD0RxaEem8Y5v3_tieFQ" id="_LqjOgBxaEem8Y5v3_tieFQ" version="0.1" type="job"/>
+      <relatedItems xmi:id="_LtWD0hxaEem8Y5v3_tieFQ" id="_kQpwoBxREem8ubyJQSeG0g" version="Latest" type="property"/>
+      <relatedItems xmi:id="_LtWD0xxaEem8Y5v3_tieFQ" id="_MN6V4Bw8Eem8ubyJQSeG0g" version="Latest" type="property"/>
+      <relatedItems xmi:id="_LtWD1BxaEem8Y5v3_tieFQ" id="SQLike" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LtWD1RxaEem8Y5v3_tieFQ" id="Numeric" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LtWD1hxaEem8Y5v3_tieFQ" id="TalendString" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LtWD1xxaEem8Y5v3_tieFQ" id="DataOperation" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LtWD2BxaEem8Y5v3_tieFQ" id="StringHandling" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LtWD2RxaEem8Y5v3_tieFQ" id="TalendDataGenerator" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LtWD2hxaEem8Y5v3_tieFQ" id="TalendDate" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LtWD2xxaEem8Y5v3_tieFQ" id="Mathematical" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LtWD3BxaEem8Y5v3_tieFQ" id="Relational" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LtWD3RxaEem8Y5v3_tieFQ" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_LtWD3hxaEem8Y5v3_tieFQ" id="_MN6V4Bw8Eem8ubyJQSeG0g - tstatcatcher" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_LtWD3xxaEem8Y5v3_tieFQ" id="_MN6V4Bw8Eem8ubyJQSeG0g - tlogcatcher" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_LtWD4BxaEem8Y5v3_tieFQ" id="_kQpwoBxREem8ubyJQSeG0g - LU_QUARTER" version="Latest" type="schema"/>
+      <relatedItems xmi:id="_LtWD4RxaEem8Y5v3_tieFQ" id="_MN6V4Bw8Eem8ubyJQSeG0g - tflowmetercatcher" version="Latest" type="schema"/>
+    </ItemsRelations>
     <migrationTask xmi:id="_gZ8WEBxXEemGwP2-adEtOQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_gZ89IBxXEemGwP2-adEtOQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_gZ89IRxXEemGwP2-adEtOQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>

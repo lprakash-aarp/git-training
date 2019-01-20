@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/j02_ex02_0.1</module>
+    <module>jobs/process/j02_ex03_0.1</module>
   </modules>
   <properties>
     <talend.project.name>LABS</talend.project.name>
